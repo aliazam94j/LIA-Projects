@@ -29,6 +29,13 @@ about 0 and 16, not the theoretical 0–1023. Mapping that tiny range to full
 brightness meant nothing visibly changed when I covered the sensor. Rescaling
 `map()` to the real-world range fixed it immediately.
 
+## Demo
+
+![Light sensor demo](light-sensor-demo.gif)
+
+Covering the photoresistor changes the LED brightness in real time.
+The Pico visible on the breadboard is not part of this circuit.
+
 ## What I would improve
 
 - Proper debounce instead of relying on the polling delay.
