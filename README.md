@@ -7,8 +7,8 @@ not just to have something running.
 | Project | What it is |
 |---|---|
 | [daily-checklist-device](https://github.com/aliazam94j/daily-checklist-device) | Physical desk checklist — Pico 2 W, WiFi, MQTT, Bluetooth, Flask + Postgres |
-| [hardware-projects](../../tree/hardware-projects) | Pomodoro timer + light-reactive LED — microcontrollers and sensors |
-| [software-projects](../../tree/software-projects) | Guessing game, contact book, velocity training, debug exercises — all in C |
+| [hardware-projects](https://github.com/aliazam94j/LIA-Projects/tree/hardware-projects) | Pomodoro timer + light-reactive LED — microcontrollers and sensors |
+| [software-projects](https://github.com/aliazam94j/LIA-Projects/tree/software-projects) | Guessing game, contact book, velocity training, debug exercises — all in C |
 
 ---
 
