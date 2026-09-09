@@ -9,7 +9,7 @@ not just to have something running.
 | [GuessingGame](./GuessingGame/) | C (console) | Number guessing game — 6 modes, time tracking, ranking |
 | [pomodoro](./pomodoro/) | Raspberry Pi Pico 2 W | Hardware Pomodoro timer — RGB LED + button, no display |
 | [light-sensor](./light-sensor/) | Arduino | Light-reactive LED — photoresistor + PWM brightness + button toggle |
-| [daily-checklist-device](../../tree/pico2w-iot-checklist/daily-checklist-device) | Pico 2 W + Pi Zero 2 W + ESP32-H2 | Physical desk checklist — WiFi, MQTT, Bluetooth, Flask + Postgres |
+| [daily-checklist-device](https://github.com/aliazam94j/daily-checklist-device) | Pico 2 W + Pi Zero 2 W + ESP32-H2 | Physical desk checklist — WiFi, MQTT, Bluetooth, Flask + Postgres |
 | [c-foundation](../../tree/c-foundation/c-foundation) | C | Structs, pointers, strings, functions — the groundwork behind the embedded projects |
 
 ---
